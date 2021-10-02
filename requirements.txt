@@ -1,0 +1,4 @@
+torch==1.9.1+cu102
+torchvision==0.10.1+cu102
+uvicorn
+fastapi
